@@ -8,4 +8,7 @@
 使移植到其他平台成为可能
 这是未加密的renpy引擎工程文件，可直接通过renpy打开
 推荐使用版本renpy7.4.9.2142版本开发
-有兴趣的也可以继续完善该项目
+欢迎有兴趣的也可以继续完善该项目
+
+截图：
+![image](https://github.com/qianmozhongheng/tsukihime-plus-renpy-vita/1.png)
