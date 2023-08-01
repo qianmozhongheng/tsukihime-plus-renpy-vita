@@ -11,4 +11,15 @@
 欢迎有兴趣的也可以继续完善该项目
 
 截图：
-![image](https://github.com/qianmozhongheng/tsukihime-plus-renpy-vita/1.png)
+
+![image](https://github.com/qianmozhongheng/tsukihime-plus-renpy-vita/blob/master/1.PNG)
+
+![image](https://github.com/qianmozhongheng/tsukihime-plus-renpy-vita/blob/master/2.PNG)
+
+![image](https://github.com/qianmozhongheng/tsukihime-plus-renpy-vita/blob/master/3.PNG)
+
+![image](https://github.com/qianmozhongheng/tsukihime-plus-renpy-vita/blob/master/4.PNG)
+
+![image](https://github.com/qianmozhongheng/tsukihime-plus-renpy-vita/blob/master/5.PNG)
+
+![image](https://github.com/qianmozhongheng/tsukihime-plus-renpy-vita/blob/master/6.PNG)
